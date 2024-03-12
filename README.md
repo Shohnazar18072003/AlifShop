@@ -1,3 +1,10 @@
+<h3>Ecommerce UI , HOMEPAGE , SINGLE PAGE , CART PAGE</h3>
+<p align="center">
+  <img src="./public/Screenshot_1.png" width="350" title="hover text">
+  <img src="./public/Screenshot_2.png" width="350" title="hover text">
+  <img src="./public/Screenshot_3.png" width="350" title="hover text">
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # 🛠 Installation & Set Up

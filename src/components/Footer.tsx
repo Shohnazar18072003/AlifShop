@@ -16,23 +16,23 @@ export const Footer = () => {
         <div className='w-full max-w-xs	flex flex-col items-center justify-center gap-5'>
           <div className='flex gap-3.5'>
             <Link
-              href="https://portfoliomarcos.com/"
+              href="https://vercel.com"
               target='_blank'
               title="Portfolio of Marcos">
               <SiVercel className="text-2xl" />
             </Link>
-            <span className='text-sm text-color-tertiary	flex items-center'>© 2023</span>
+            <span className='text-sm text-color-tertiary	flex items-center'>© 2024</span>
           </div>
           <div className='flex gap-3.5'>
             <Link
-              href="https://www.linkedin.com/in/marcospenelascamara/"
+              href="https://www.linkedin.com/in/shohnazarabdusalomov/"
               target='_blank'
-              title="LindedIn of Marcos"
+              title="LindedIn of Shohnazar"
             ><FaLinkedin className="text-2xl" /></Link>
             <Link
-              href="https://github.com/MarcosCamara01"
+              href="https://github.com/Shohnazar18072003/"
               target='_blank'
-              title="GitHub of Marcos"
+              title="GitHub of Shohnazar"
             ><FaGithubSquare className="text-2xl" /></Link>
           </div>
         </div>
@@ -53,11 +53,12 @@ export const Footer = () => {
           </ul>
         </div>
         <div className='w-full max-w-xs'>
-          <h2 className='text-sm font-medium my-3'>About Marcos</h2>
+          <h2 className='text-sm font-medium my-3'>About Shohnazar</h2>
           <ul className='grid grid-cols-2'>
-            <li className={liStyles}><Link href="https://portfoliomarcos.com/" target='_blank' className={linkStyles}>Portfolio</Link></li>
-            <li className={liStyles}><Link href="https://www.linkedin.com/in/marcospenelascamara/" target='_blank' className={linkStyles}>LinkedIn</Link></li>
-            <li className={liStyles}><Link href="https://github.com/MarcosCamara01" target='_blank' className={linkStyles}>GitHub</Link></li>
+            <li className={liStyles}><Link href="https://github.com/Shohnazar18072003/" target='_blank' className={linkStyles}>GitHub</Link></li>
+            <li className={liStyles}><Link href="https://www.instagram.com/abdusalomov.shohnazar/" target='_blank' className={linkStyles}>Instagram</Link></li>
+            <li className={liStyles}><Link href="https://www.linkedin.com/in/shohnazarabdusalomov/" target='_blank' className={linkStyles}>LinkedIn</Link></li>
+            <li className={liStyles}><Link href="https://t.me/Shohnazar_blog" target='_blank' className={linkStyles}>Telegram</Link></li>
           </ul>
         </div>
       </nav>
